@@ -79,3 +79,5 @@ Memos is open-source software licensed under the [MIT License](LICENSE). See our
 ---
 
 **[Website](https://usememos.com)** • **[Documentation](https://usememos.com/docs)** • **[Demo](https://demo.usememos.com/)** • **[Discord](https://discord.gg/tfPJa4UmAv)** • **[X/Twitter](https://x.com/usememos)**
+
+<!-- coauthored -->
